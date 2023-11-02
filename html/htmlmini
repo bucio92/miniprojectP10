@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+
+    <div class="time-container">
+  <div id="time-container">
+ <p id="time"></p>
+</div>
+  </div>
+</div>
+  <script src="script.js"></script>
+</body>
+</html>
